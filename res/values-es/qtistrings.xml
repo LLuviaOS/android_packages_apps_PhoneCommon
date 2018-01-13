@@ -34,6 +34,7 @@
   <!-- Supplementary for Clear Code -->
   <!-- Text for CallFailCause.NO_CIRCUIT_AVAIL = 34 -->
   <!-- Text for CallFailCause.NETWORK_OUT_OF_ORDER = 38 -->
+  <string name="callFailed_network_out_of_order">Red fuera de servicio</string>
   <!-- Text for CallFailCause.NO_ROUTE_TO_DESTINAON = 3 -->
   <!-- Text for CallFailCause.CHANNEL_UNACCEPTABLE = 6 -->
   <!-- Text for CallFailCause.OPERATOR_DETERMINED_BARRING = 8 -->
@@ -41,6 +42,7 @@
   <!-- Text for CallFailCause.CALL_FAIL_NO_USER_RESPONDING = 18 -->
   <!-- Text for CallFailCause.CALL_FAIL_NO_ANSWER_FROM_USER = 19 -->
   <!-- Text for CallFailCause.CALL_REJECTED = 21 -->
+  <string name="callFailed_call_rejected">Llamada rechazada</string>
   <!-- Text for CallFailCause.NUMBER_CHANGED = 22 -->
   <!-- Text for CallFailCause.PREEMPTION = 25 -->
   <!-- Text for CallFailCause.CALL_FAIL_DESTINATION_OUT_OF_ORDER = 27 -->
