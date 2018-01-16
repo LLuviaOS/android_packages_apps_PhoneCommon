@@ -53,7 +53,7 @@
   <!-- Text for CallFailCause.NUMBER_CHANGED = 22 -->
   <string name="callFailed_number_changed">Zmieniono numer</string>
   <!-- Text for CallFailCause.PREEMPTION = 25 -->
-  <string name="callFailed_preemption">Wywłaszczenie</string>
+  <string name="callFailed_preemption">Udaremnienie</string>
   <!-- Text for CallFailCause.CALL_FAIL_DESTINATION_OUT_OF_ORDER = 27 -->
   <string name="callFailed_destination_out_of_order">Cel połączenia jest nieczynny</string>
   <!-- Text for CallFailCause.INVALID_NUMBER = 28 -->

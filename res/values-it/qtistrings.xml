@@ -68,36 +68,56 @@
   <string name="callFailed_tempopary_failure">Anomalia temporanea</string>
   <!-- Text for CallFailCause.SWITCHING_CONGESTION = 42 -->
   <!-- Text for CallFailCause.ACCESS_INFORMATION_DISCARDED = 43 -->
+  <string name="callFailed_access_information_discarded">Informazioni di accesso rifiutate</string>
   <!-- Text for CallFailCause.CHANNEL_NOT_AVAIL = 44 -->
+  <string name="callFailed_requested_circuit_or_channel_not_available">il circuito/canale richiesto non è disponibile</string>
   <!-- Text for CallFailCause.RESOURCES_UNAVAILABLE_OR_UNSPECIFIED = 47 -->
+  <string name="callFailed_resources_unavailable_or_unspecified">Risorse non disponibili, non specificato</string>
   <!-- Text for CallFailCause.QOS_NOT_AVAIL = 49 -->
+  <string name="callFailed_QOS_unavailable">QoS non disponibile</string>
   <!-- Text for CallFailCause.REQUESTED_FACILITY_NOT_SUBSCRIBED = 50 -->
+  <string name="callFailed_requested_facility_not_subscribed">La funzione richiesta non è sottoscritta</string>
   <!-- Text for CallFailCause.INCOMING_CALLS_BARRED_WITHIN_CUG = 55 -->
+  <string name="callFailed_incoming_calls_barred_within_CUG">Chiamate in entrata bloccate nel CUG</string>
   <!-- Text for CallFailCause.BEARER_CAPABILITY_NOT_AUTHORIZED = 57 -->
   <!-- Text for CallFailCause.BEARER_NOT_AVAIL = 58 -->
   <!-- Text for CallFailCause.SERVICE_OPTION_NOT_AVAILABLE = 63 -->
   <!-- Text for CallFailCause.BEARER_SERVICE_NOT_IMPLEMENTED = 65 -->
   <!-- Text for CallFailCause.REQUESTED_FACILITY_NOT_IMPLEMENTED = 69 -->
+  <string name="callFailed_requested_facility_not_implemented">La funzione richiesta non è implemantata</string>
   <!-- Text for CallFailCause.ONLY_DIGITAL_INFORMATION_BEARER_AVAILABLE = 70 -->
   <!-- Text for CallFailCause.SERVICE_OR_OPTION_NOT_IMPLEMENTED = 79 -->
   <!-- Text for CallFailCause.INVALID_TRANSACTION_IDENTIFIER = 81 -->
+  <string name="callFailed_invalid_transaction_identifier">Valore identificativo della transazione non valido</string>
   <!-- Text for CallFailCause.USER_NOT_MEMBER_OF_CUG = 87 -->
+  <string name="callFailed_user_not_member_of_CUG">L\'utente non è membro di alcun CUG</string>
   <!-- Text for CallFailCause.INCOMPATIBLE_DESTINATION = 88 -->
+  <string name="callFailed_incompatible_destination">Destinazione incompatibile</string>
   <!-- Text for CallFailCause.INVALID_TRANSIT_NW_SELECTION = 91 -->
   <!-- Text for CallFailCause.SEMANTICALLY_INCORRECT_MESSAGE = 95 -->
+  <string name="callFailed_semantically_incorrect_message">Messaggio con interpretazione errata</string>
   <!-- Text for CallFailCause.INVALID_MANDATORY_INFORMATION = 96 -->
+  <string name="callFailed_invalid_mandatory_information">Informazione obbligatoria non valida</string>
   <!-- Text for CallFailCause.MESSAGE_TYPE_NON_IMPLEMENTED = 97 -->
+  <string name="callFailed_message_type_non_implemented">Messaggio non esistente o non implemantato</string>
   <!-- Text for CallFailCause.MESSAGE_TYPE_NOT_COMPATIBLE_WITH_PROTOCOL_STATE = 98 -->
+  <string name="callFailed_message_type_not_compatible_with_protocol_state">Messaggio non compatibile con il protocollo attuale</string>
   <!-- Text for CallFailCause.INFORMATION_ELEMENT_NON_EXISTENT = 99 -->
   <!-- Text for CallFailCause.CONDITIONAL_IE_ERROR = 100 -->
+  <string name="callFailed_conditional_IE_error">Errore IE condizionale</string>
   <!-- Text for CallFailCause.MESSAGE_NOT_COMPATIBLE_WITH_PROTOCOL_STATE = 101 -->
   <!-- Text for CallFailCause.RECOVERY_ON_TIMER_EXPIRED = 102 -->
   <!-- Text for CallFailCause.PROTOCOL_ERROR_UNSPECIFIED = 111 -->
   <!-- Text for CallFailCause.INTERWORKING_UNSPECIFIED = 127 -->
   <!-- Text for CallFailCause.NON_SELECTED_USER_CLEARING = 26 -->
   <!-- In-call screen: call failure reason (call modified to call with modified data) -->
+  <string name="callFailed_dialToDialVideo">Richiesta DIAL modificata in richiesta Video DIAL.</string>
   <!-- In-call screen: call failure reason (call modified to call with modified data) -->
+  <string name="callFailed_dialVideoToSs">Richiesta video DIAL modificata in richiesta SS.</string>
   <!-- In-call screen: call failure reason (call modified to call with modified data) -->
+  <string name="callFailed_dialVideoToUssd">Richiesta video DIAL modificata in richiesta USSD.</string>
   <!-- In-call screen: call failure reason (call modified to call with modified data) -->
+  <string name="callFailed_dialVideoToDial">Richiesta Video DIAL modificata in DIAL.</string>
   <!-- In-call screen: call failure reason (call modified to call with modified data) -->
+  <string name="callFailed_dialVideoToDialVideo">Richiesta video modificata in una richiesta video con numero differente.</string>
 </resources>

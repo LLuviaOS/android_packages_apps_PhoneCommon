@@ -41,6 +41,7 @@
   <!-- Text for CallFailCause.CALL_FAIL_NO_USER_RESPONDING = 18 -->
   <!-- Text for CallFailCause.CALL_FAIL_NO_ANSWER_FROM_USER = 19 -->
   <!-- Text for CallFailCause.CALL_REJECTED = 21 -->
+  <string name="callFailed_call_rejected">Chamada rejeitada</string>
   <!-- Text for CallFailCause.NUMBER_CHANGED = 22 -->
   <!-- Text for CallFailCause.PREEMPTION = 25 -->
   <!-- Text for CallFailCause.CALL_FAIL_DESTINATION_OUT_OF_ORDER = 27 -->
@@ -49,6 +50,7 @@
   <!-- Text for CallFailCause.STATUS_ENQUIRY = 30 -->
   <!-- Text for CallFailCause.NORMAL_UNSPECIFIED = 31 -->
   <!-- Text for CallFailCause.TEMPORARY_FAILURE = 41 -->
+  <string name="callFailed_tempopary_failure">Falha temporária</string>
   <!-- Text for CallFailCause.SWITCHING_CONGESTION = 42 -->
   <!-- Text for CallFailCause.ACCESS_INFORMATION_DISCARDED = 43 -->
   <!-- Text for CallFailCause.CHANNEL_NOT_AVAIL = 44 -->

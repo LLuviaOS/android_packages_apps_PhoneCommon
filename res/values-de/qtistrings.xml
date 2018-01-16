@@ -37,7 +37,7 @@
   <!-- Text for CallFailCause.NETWORK_OUT_OF_ORDER = 38 -->
   <string name="callFailed_network_out_of_order">Netzwerk außer Betrieb</string>
   <!-- Text for CallFailCause.NO_ROUTE_TO_DESTINAON = 3 -->
-  <string name="callFailed_no_route_to_destination">Keine Route verfügbar</string>
+  <string name="callFailed_no_route_to_destination">Keine Leitung verfügbar</string>
   <!-- Text for CallFailCause.CHANNEL_UNACCEPTABLE = 6 -->
   <string name="callFailed_channel_unacceptable">Kanal wird nicht akzeptiert</string>
   <!-- Text for CallFailCause.OPERATOR_DETERMINED_BARRING = 8 -->
