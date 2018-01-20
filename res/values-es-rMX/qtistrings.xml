@@ -53,6 +53,7 @@
   <!-- Text for CallFailCause.NUMBER_CHANGED = 22 -->
   <string name="callFailed_number_changed">Número cambiado</string>
   <!-- Text for CallFailCause.PREEMPTION = 25 -->
+  <string name="callFailed_preemption">Derecho preferente de compra</string>
   <!-- Text for CallFailCause.CALL_FAIL_DESTINATION_OUT_OF_ORDER = 27 -->
   <string name="callFailed_destination_out_of_order">Destino fuera de servicio</string>
   <!-- Text for CallFailCause.INVALID_NUMBER = 28 -->
@@ -74,40 +75,63 @@
   <!-- Text for CallFailCause.RESOURCES_UNAVAILABLE_OR_UNSPECIFIED = 47 -->
   <string name="callFailed_resources_unavailable_or_unspecified">Recursos no disponibles, sin especificar</string>
   <!-- Text for CallFailCause.QOS_NOT_AVAIL = 49 -->
+  <string name="callFailed_QOS_unavailable">Calidad del servicio no disponible</string>
   <!-- Text for CallFailCause.REQUESTED_FACILITY_NOT_SUBSCRIBED = 50 -->
+  <string name="callFailed_requested_facility_not_subscribed">Instalación solicitada no suscrita</string>
   <!-- Text for CallFailCause.INCOMING_CALLS_BARRED_WITHIN_CUG = 55 -->
+  <string name="callFailed_incoming_calls_barred_within_CUG">Llamadas entrantes bloqueadas dentro del CUG</string>
   <!-- Text for CallFailCause.BEARER_CAPABILITY_NOT_AUTHORIZED = 57 -->
+  <string name="callFailed_bearer_capability_not_authorized">Capacidad portadora no autorizada</string>
   <!-- Text for CallFailCause.BEARER_NOT_AVAIL = 58 -->
+  <string name="callFailed_bearer_capability_unavailable">La capacidad portadora no está actualmente disponible</string>
   <!-- Text for CallFailCause.SERVICE_OPTION_NOT_AVAILABLE = 63 -->
+  <string name="callFailed_service_option_not_available">Servicio u opción no disponible, no especificado</string>
   <!-- Text for CallFailCause.BEARER_SERVICE_NOT_IMPLEMENTED = 65 -->
+  <string name="callFailed_bearer_service_not_implemented">Servicio portador no implementado</string>
   <!-- Text for CallFailCause.REQUESTED_FACILITY_NOT_IMPLEMENTED = 69 -->
+  <string name="callFailed_requested_facility_not_implemented">Instalación solicitada no implementada</string>
   <!-- Text for CallFailCause.ONLY_DIGITAL_INFORMATION_BEARER_AVAILABLE = 70 -->
+  <string name="callFailed_only_digital_information_bearer_available">Solo está disponible la capacidad portadora de información digital restringida</string>
   <!-- Text for CallFailCause.SERVICE_OR_OPTION_NOT_IMPLEMENTED = 79 -->
+  <string name="callFailed_service_or_option_not_implemented">Servicio u opción no implementada, no especificada</string>
   <!-- Text for CallFailCause.INVALID_TRANSACTION_IDENTIFIER = 81 -->
+  <string name="callFailed_invalid_transaction_identifier">Valor de identificador de transacción no válido</string>
   <!-- Text for CallFailCause.USER_NOT_MEMBER_OF_CUG = 87 -->
+  <string name="callFailed_user_not_member_of_CUG">Usuario no miembro de CUG</string>
   <!-- Text for CallFailCause.INCOMPATIBLE_DESTINATION = 88 -->
   <string name="callFailed_incompatible_destination">Destino incompatible</string>
   <!-- Text for CallFailCause.INVALID_TRANSIT_NW_SELECTION = 91 -->
+  <string name="callFailed_invalid_transit_NW_selection">Selección de red de tránsito no válida</string>
   <!-- Text for CallFailCause.SEMANTICALLY_INCORRECT_MESSAGE = 95 -->
+  <string name="callFailed_semantically_incorrect_message">Mensaje semánticamente incorrecto</string>
   <!-- Text for CallFailCause.INVALID_MANDATORY_INFORMATION = 96 -->
+  <string name="callFailed_invalid_mandatory_information">Información obligatoria inválida</string>
   <!-- Text for CallFailCause.MESSAGE_TYPE_NON_IMPLEMENTED = 97 -->
   <string name="callFailed_message_type_non_implemented">Tipo de mensaje inexistente o no implementada</string>
   <!-- Text for CallFailCause.MESSAGE_TYPE_NOT_COMPATIBLE_WITH_PROTOCOL_STATE = 98 -->
   <string name="callFailed_message_type_not_compatible_with_protocol_state">Tipo de mensaje no es compatible con el estado del Protocolo</string>
   <!-- Text for CallFailCause.INFORMATION_ELEMENT_NON_EXISTENT = 99 -->
+  <string name="callFailed_information_element_non_existent">Elemento de información no existente o no implementado</string>
   <!-- Text for CallFailCause.CONDITIONAL_IE_ERROR = 100 -->
   <string name="callFailed_conditional_IE_error">Error condicional de IE</string>
   <!-- Text for CallFailCause.MESSAGE_NOT_COMPATIBLE_WITH_PROTOCOL_STATE = 101 -->
   <string name="callFailed_message_not_compatible_with_protocol_state">Mensaje no compatible con el estado del Protocolo</string>
   <!-- Text for CallFailCause.RECOVERY_ON_TIMER_EXPIRED = 102 -->
+  <string name="callFailed_recovery_on_timer_expired">Recuperación en el vencimiento del temporizador</string>
   <!-- Text for CallFailCause.PROTOCOL_ERROR_UNSPECIFIED = 111 -->
   <string name="callFailed_protocol_error_unspecified">Error de protocolo, no especificado</string>
   <!-- Text for CallFailCause.INTERWORKING_UNSPECIFIED = 127 -->
   <string name="callFailed_interworking_unspecified">Interoperatividad, sin especificar</string>
   <!-- Text for CallFailCause.NON_SELECTED_USER_CLEARING = 26 -->
+  <string name="callFailed_non_selected_user_clearing">Borrado de usuario no seleccionado</string>
   <!-- In-call screen: call failure reason (call modified to call with modified data) -->
+  <string name="callFailed_dialToDialVideo">Solicitud de DIAL modificada a Video DIAL.</string>
   <!-- In-call screen: call failure reason (call modified to call with modified data) -->
+  <string name="callFailed_dialVideoToSs">Solicitud de DIAL de video modificada para la solicitud de SS.</string>
   <!-- In-call screen: call failure reason (call modified to call with modified data) -->
+  <string name="callFailed_dialVideoToUssd">Solicitud de DIAL de video modificada para solicitud de USSD.</string>
   <!-- In-call screen: call failure reason (call modified to call with modified data) -->
+  <string name="callFailed_dialVideoToDial">Solicitud de DIAL de video modificada a DIAL.</string>
   <!-- In-call screen: call failure reason (call modified to call with modified data) -->
+  <string name="callFailed_dialVideoToDialVideo">Solicitud de DIAL de video modificada a Video DIAL con un número diferente.</string>
 </resources>

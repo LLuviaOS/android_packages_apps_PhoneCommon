@@ -35,6 +35,7 @@
   <!-- Text for CallFailCause.NO_CIRCUIT_AVAIL = 34 -->
   <!-- Text for CallFailCause.NETWORK_OUT_OF_ORDER = 38 -->
   <!-- Text for CallFailCause.NO_ROUTE_TO_DESTINAON = 3 -->
+  <string name="callFailed_no_route_to_destination">Não há rota para o destino</string>
   <!-- Text for CallFailCause.CHANNEL_UNACCEPTABLE = 6 -->
   <!-- Text for CallFailCause.OPERATOR_DETERMINED_BARRING = 8 -->
   <!-- Text for CallFailCause.NORMAL_CLEARING = 16 -->
@@ -49,6 +50,7 @@
   <!-- Text for CallFailCause.FACILITY_REJECTED = 29 -->
   <!-- Text for CallFailCause.STATUS_ENQUIRY = 30 -->
   <!-- Text for CallFailCause.NORMAL_UNSPECIFIED = 31 -->
+  <string name="callFailed_normal_unspecified">Normal, não especificado</string>
   <!-- Text for CallFailCause.TEMPORARY_FAILURE = 41 -->
   <string name="callFailed_tempopary_failure">Falha temporária</string>
   <!-- Text for CallFailCause.SWITCHING_CONGESTION = 42 -->

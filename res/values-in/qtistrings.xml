@@ -33,9 +33,9 @@
 <resources>
   <!-- Supplementary for Clear Code -->
   <!-- Text for CallFailCause.NO_CIRCUIT_AVAIL = 34 -->
-  <string name="callFailed_no_circuit_avail">Tidak tersedia sirkuit</string>
+  <string name="callFailed_no_circuit_avail">Tidak ada sirkuit tersedia</string>
   <!-- Text for CallFailCause.NETWORK_OUT_OF_ORDER = 38 -->
-  <string name="callFailed_network_out_of_order">Jaringan rusak</string>
+  <string name="callFailed_network_out_of_order">Jaringan diluar jangkauan</string>
   <!-- Text for CallFailCause.NO_ROUTE_TO_DESTINAON = 3 -->
   <string name="callFailed_no_route_to_destination">Tidak ada rute ke tujuan</string>
   <!-- Text for CallFailCause.CHANNEL_UNACCEPTABLE = 6 -->
@@ -43,7 +43,7 @@
   <!-- Text for CallFailCause.OPERATOR_DETERMINED_BARRING = 8 -->
   <string name="callFailed_operator_determined_barring">Operator menentukan pembatasan</string>
   <!-- Text for CallFailCause.NORMAL_CLEARING = 16 -->
-  <string name="callFailed_normal">Kliring panggilan normal</string>
+  <string name="callFailed_normal">Membersihkan panggilan normal</string>
   <!-- Text for CallFailCause.CALL_FAIL_NO_USER_RESPONDING = 18 -->
   <string name="callFailed_no_user_responding">Tidak ada pengguna yang merespons</string>
   <!-- Text for CallFailCause.CALL_FAIL_NO_ANSWER_FROM_USER = 19 -->
@@ -71,13 +71,13 @@
   <!-- Text for CallFailCause.ACCESS_INFORMATION_DISCARDED = 43 -->
   <string name="callFailed_access_information_discarded">Mengakses informasi yang dibuang</string>
   <!-- Text for CallFailCause.CHANNEL_NOT_AVAIL = 44 -->
-  <string name="callFailed_requested_circuit_or_channel_not_available">diminta sirkuit / saluran tidak tersedia</string>
+  <string name="callFailed_requested_circuit_or_channel_not_available">sirkuit diminta/ saluran tidak tersedia</string>
   <!-- Text for CallFailCause.RESOURCES_UNAVAILABLE_OR_UNSPECIFIED = 47 -->
-  <string name="callFailed_resources_unavailable_or_unspecified">Sumber daya yang tersedia, tidak ditentukan</string>
+  <string name="callFailed_resources_unavailable_or_unspecified">Sumber daya tidak tersedia, tidak bisa ditentukan</string>
   <!-- Text for CallFailCause.QOS_NOT_AVAIL = 49 -->
   <string name="callFailed_QOS_unavailable">Kualitas layanan tidak tersedia</string>
   <!-- Text for CallFailCause.REQUESTED_FACILITY_NOT_SUBSCRIBED = 50 -->
-  <string name="callFailed_requested_facility_not_subscribed">Fasilitas yang diminta belum berlangganan</string>
+  <string name="callFailed_requested_facility_not_subscribed">Belum berlangganan fasilitas yang diminta</string>
   <!-- Text for CallFailCause.INCOMING_CALLS_BARRED_WITHIN_CUG = 55 -->
   <string name="callFailed_incoming_calls_barred_within_CUG">Panggilan masuk yang dilarang dalam CUG</string>
   <!-- Text for CallFailCause.BEARER_CAPABILITY_NOT_AUTHORIZED = 57 -->
