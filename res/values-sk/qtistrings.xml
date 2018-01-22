@@ -33,36 +33,50 @@
 <resources>
   <!-- Supplementary for Clear Code -->
   <!-- Text for CallFailCause.NO_CIRCUIT_AVAIL = 34 -->
+  <string name="callFailed_no_circuit_avail">Žiadny dostupný okruh</string>
   <!-- Text for CallFailCause.NETWORK_OUT_OF_ORDER = 38 -->
+  <string name="callFailed_network_out_of_order">Sieť nedostupná</string>
   <!-- Text for CallFailCause.NO_ROUTE_TO_DESTINAON = 3 -->
+  <string name="callFailed_no_route_to_destination">Žiadna dostupná cesta</string>
   <!-- Text for CallFailCause.CHANNEL_UNACCEPTABLE = 6 -->
   <!-- Text for CallFailCause.OPERATOR_DETERMINED_BARRING = 8 -->
   <!-- Text for CallFailCause.NORMAL_CLEARING = 16 -->
+  <string name="callFailed_normal">Normálne ukončenie hovorov</string>
   <!-- Text for CallFailCause.CALL_FAIL_NO_USER_RESPONDING = 18 -->
+  <string name="callFailed_no_user_responding">Žiadna odpoveď</string>
   <!-- Text for CallFailCause.CALL_FAIL_NO_ANSWER_FROM_USER = 19 -->
   <!-- Text for CallFailCause.CALL_REJECTED = 21 -->
+  <string name="callFailed_call_rejected">Hovor odmietnutý</string>
   <!-- Text for CallFailCause.NUMBER_CHANGED = 22 -->
+  <string name="callFailed_number_changed">Číslo zmenené</string>
   <!-- Text for CallFailCause.PREEMPTION = 25 -->
   <!-- Text for CallFailCause.CALL_FAIL_DESTINATION_OUT_OF_ORDER = 27 -->
   <!-- Text for CallFailCause.INVALID_NUMBER = 28 -->
+  <string name="callFailed_invalid_number_format">Neplatný formát čísla (nedokončené číslo)</string>
   <!-- Text for CallFailCause.FACILITY_REJECTED = 29 -->
   <!-- Text for CallFailCause.STATUS_ENQUIRY = 30 -->
   <!-- Text for CallFailCause.NORMAL_UNSPECIFIED = 31 -->
+  <string name="callFailed_normal_unspecified">Normálne, neurčené</string>
   <!-- Text for CallFailCause.TEMPORARY_FAILURE = 41 -->
+  <string name="callFailed_tempopary_failure">Dočasné zlyhanie</string>
   <!-- Text for CallFailCause.SWITCHING_CONGESTION = 42 -->
   <!-- Text for CallFailCause.ACCESS_INFORMATION_DISCARDED = 43 -->
   <!-- Text for CallFailCause.CHANNEL_NOT_AVAIL = 44 -->
+  <string name="callFailed_requested_circuit_or_channel_not_available">požadovaný okruh/kanál nie je dostupný</string>
   <!-- Text for CallFailCause.RESOURCES_UNAVAILABLE_OR_UNSPECIFIED = 47 -->
+  <string name="callFailed_resources_unavailable_or_unspecified">Zdroje nie sú dostupné z neznámych dôvodov</string>
   <!-- Text for CallFailCause.QOS_NOT_AVAIL = 49 -->
   <!-- Text for CallFailCause.REQUESTED_FACILITY_NOT_SUBSCRIBED = 50 -->
   <!-- Text for CallFailCause.INCOMING_CALLS_BARRED_WITHIN_CUG = 55 -->
   <!-- Text for CallFailCause.BEARER_CAPABILITY_NOT_AUTHORIZED = 57 -->
   <!-- Text for CallFailCause.BEARER_NOT_AVAIL = 58 -->
   <!-- Text for CallFailCause.SERVICE_OPTION_NOT_AVAILABLE = 63 -->
+  <string name="callFailed_service_option_not_available">Služba alebo možnosť nie je k dispozícii, nešpecifikované</string>
   <!-- Text for CallFailCause.BEARER_SERVICE_NOT_IMPLEMENTED = 65 -->
   <!-- Text for CallFailCause.REQUESTED_FACILITY_NOT_IMPLEMENTED = 69 -->
   <!-- Text for CallFailCause.ONLY_DIGITAL_INFORMATION_BEARER_AVAILABLE = 70 -->
   <!-- Text for CallFailCause.SERVICE_OR_OPTION_NOT_IMPLEMENTED = 79 -->
+  <string name="callFailed_service_or_option_not_implemented">Služba alebo možnosť nie je implementovaná, nešpecifikované</string>
   <!-- Text for CallFailCause.INVALID_TRANSACTION_IDENTIFIER = 81 -->
   <!-- Text for CallFailCause.USER_NOT_MEMBER_OF_CUG = 87 -->
   <!-- Text for CallFailCause.INCOMPATIBLE_DESTINATION = 88 -->
@@ -72,7 +86,9 @@
   <!-- Text for CallFailCause.MESSAGE_TYPE_NON_IMPLEMENTED = 97 -->
   <!-- Text for CallFailCause.MESSAGE_TYPE_NOT_COMPATIBLE_WITH_PROTOCOL_STATE = 98 -->
   <!-- Text for CallFailCause.INFORMATION_ELEMENT_NON_EXISTENT = 99 -->
+  <string name="callFailed_information_element_non_existent">Údaj neexistuje alebo nie je implementovaný</string>
   <!-- Text for CallFailCause.CONDITIONAL_IE_ERROR = 100 -->
+  <string name="callFailed_conditional_IE_error">Podmienená IE chyba</string>
   <!-- Text for CallFailCause.MESSAGE_NOT_COMPATIBLE_WITH_PROTOCOL_STATE = 101 -->
   <!-- Text for CallFailCause.RECOVERY_ON_TIMER_EXPIRED = 102 -->
   <!-- Text for CallFailCause.PROTOCOL_ERROR_UNSPECIFIED = 111 -->
@@ -80,7 +96,11 @@
   <!-- Text for CallFailCause.NON_SELECTED_USER_CLEARING = 26 -->
   <!-- In-call screen: call failure reason (call modified to call with modified data) -->
   <!-- In-call screen: call failure reason (call modified to call with modified data) -->
+  <string name="callFailed_dialVideoToSs">Požiadavka Video DIAL bola upravená na požiadavku SS.</string>
   <!-- In-call screen: call failure reason (call modified to call with modified data) -->
+  <string name="callFailed_dialVideoToUssd">Požiadavka Video DIAL bola upravená na požiadavku USSD.</string>
   <!-- In-call screen: call failure reason (call modified to call with modified data) -->
+  <string name="callFailed_dialVideoToDial">Požiadavka Video DIAL bola upravená na požiadavku DIAL.</string>
   <!-- In-call screen: call failure reason (call modified to call with modified data) -->
+  <string name="callFailed_dialVideoToDialVideo">Požiadavka Video DIAL bola upravená na požiadavku Video DIAL s iným číslom.</string>
 </resources>

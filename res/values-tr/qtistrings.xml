@@ -35,7 +35,7 @@
   <!-- Text for CallFailCause.NO_CIRCUIT_AVAIL = 34 -->
   <string name="callFailed_no_circuit_avail">Devre mevcut değil</string>
   <!-- Text for CallFailCause.NETWORK_OUT_OF_ORDER = 38 -->
-  <string name="callFailed_network_out_of_order">Bozuk ağ</string>
+  <string name="callFailed_network_out_of_order">Şebeke arızası</string>
   <!-- Text for CallFailCause.NO_ROUTE_TO_DESTINAON = 3 -->
   <string name="callFailed_no_route_to_destination">Hedef yönlendirme yok</string>
   <!-- Text for CallFailCause.CHANNEL_UNACCEPTABLE = 6 -->
@@ -43,7 +43,7 @@
   <!-- Text for CallFailCause.OPERATOR_DETERMINED_BARRING = 8 -->
   <string name="callFailed_operator_determined_barring">Operatör engelleme belirlendi</string>
   <!-- Text for CallFailCause.NORMAL_CLEARING = 16 -->
-  <string name="callFailed_normal">Normal cağrı temizleme</string>
+  <string name="callFailed_normal">Normal arama temizleme</string>
   <!-- Text for CallFailCause.CALL_FAIL_NO_USER_RESPONDING = 18 -->
   <string name="callFailed_no_user_responding">Yanıt yok</string>
   <!-- Text for CallFailCause.CALL_FAIL_NO_ANSWER_FROM_USER = 19 -->
