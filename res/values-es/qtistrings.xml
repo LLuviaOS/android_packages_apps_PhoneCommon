@@ -103,7 +103,7 @@
   <!-- Text for CallFailCause.INVALID_TRANSIT_NW_SELECTION = 91 -->
   <string name="callFailed_invalid_transit_NW_selection">Selección de red de tránsito no válida</string>
   <!-- Text for CallFailCause.SEMANTICALLY_INCORRECT_MESSAGE = 95 -->
-  <string name="callFailed_semantically_incorrect_message">Mensaje semánticamente incorrecto</string>
+  <string name="callFailed_semantically_incorrect_message">Mensaje semanticamente incorrecto</string>
   <!-- Text for CallFailCause.INVALID_MANDATORY_INFORMATION = 96 -->
   <string name="callFailed_invalid_mandatory_information">Información obligatoria inválida</string>
   <!-- Text for CallFailCause.MESSAGE_TYPE_NON_IMPLEMENTED = 97 -->
@@ -115,13 +115,13 @@
   <!-- Text for CallFailCause.CONDITIONAL_IE_ERROR = 100 -->
   <string name="callFailed_conditional_IE_error">Error de IE condicional</string>
   <!-- Text for CallFailCause.MESSAGE_NOT_COMPATIBLE_WITH_PROTOCOL_STATE = 101 -->
-  <string name="callFailed_message_not_compatible_with_protocol_state">Mensaje no compatible con el estado del protocolo</string>
+  <string name="callFailed_message_not_compatible_with_protocol_state">El mensaje no es compatible con el estado del Protocolo</string>
   <!-- Text for CallFailCause.RECOVERY_ON_TIMER_EXPIRED = 102 -->
   <string name="callFailed_recovery_on_timer_expired">Recuperación en el vencimiento del temporizador</string>
   <!-- Text for CallFailCause.PROTOCOL_ERROR_UNSPECIFIED = 111 -->
   <string name="callFailed_protocol_error_unspecified">Error de protocolo, no especificado</string>
   <!-- Text for CallFailCause.INTERWORKING_UNSPECIFIED = 127 -->
-  <string name="callFailed_interworking_unspecified">Interfuncionamiento, no especificado</string>
+  <string name="callFailed_interworking_unspecified">funcionamiento, no especificado</string>
   <!-- Text for CallFailCause.NON_SELECTED_USER_CLEARING = 26 -->
   <string name="callFailed_non_selected_user_clearing">Eliminación de usuario no seleccionada</string>
   <!-- In-call screen: call failure reason (call modified to call with modified data) -->

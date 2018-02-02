@@ -33,7 +33,7 @@
 <resources>
   <!-- Supplementary for Clear Code -->
   <!-- Text for CallFailCause.NO_CIRCUIT_AVAIL = 34 -->
-  <string name="callFailed_no_circuit_avail">Ingen ledning tillgänglig för att hantera samtalet</string>
+  <string name="callFailed_no_circuit_avail">Ingen ledning tillgänglig</string>
   <!-- Text for CallFailCause.NETWORK_OUT_OF_ORDER = 38 -->
   <string name="callFailed_network_out_of_order">Nätverket är ur funktion</string>
   <!-- Text for CallFailCause.NO_ROUTE_TO_DESTINAON = 3 -->
@@ -133,4 +133,5 @@
   <!-- In-call screen: call failure reason (call modified to call with modified data) -->
   <string name="callFailed_dialVideoToDial">Video DIAL begäran ändrades till DIAL.</string>
   <!-- In-call screen: call failure reason (call modified to call with modified data) -->
+  <string name="callFailed_dialVideoToDialVideo">Video DIAL-begäran har ändrats till en Video DIAL-begäran med ett annat nummer.</string>
 </resources>
