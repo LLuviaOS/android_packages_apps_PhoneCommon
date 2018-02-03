@@ -123,7 +123,7 @@
   <!-- Text for CallFailCause.INTERWORKING_UNSPECIFIED = 127 -->
   <string name="callFailed_interworking_unspecified">Interworking, tidak ditentukan</string>
   <!-- Text for CallFailCause.NON_SELECTED_USER_CLEARING = 26 -->
-  <string name="callFailed_non_selected_user_clearing">Kliring pengguna yang tidak dipilih</string>
+  <string name="callFailed_non_selected_user_clearing">Pembersihan pengguna yang tidak dipilih</string>
   <!-- In-call screen: call failure reason (call modified to call with modified data) -->
   <string name="callFailed_dialToDialVideo">Permintaan DIAL dimodifikasi ke Video DIAL.</string>
   <!-- In-call screen: call failure reason (call modified to call with modified data) -->

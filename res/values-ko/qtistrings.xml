@@ -33,17 +33,29 @@
 <resources>
   <!-- Supplementary for Clear Code -->
   <!-- Text for CallFailCause.NO_CIRCUIT_AVAIL = 34 -->
+  <string name="callFailed_no_circuit_avail">사용 가능한 회로 없음</string>
   <!-- Text for CallFailCause.NETWORK_OUT_OF_ORDER = 38 -->
+  <string name="callFailed_network_out_of_order">네트워크 사용 불가</string>
   <!-- Text for CallFailCause.NO_ROUTE_TO_DESTINAON = 3 -->
+  <string name="callFailed_no_route_to_destination">대상 경로가 없습니다</string>
   <!-- Text for CallFailCause.CHANNEL_UNACCEPTABLE = 6 -->
+  <string name="callFailed_channel_unacceptable">채널 허용 불가</string>
   <!-- Text for CallFailCause.OPERATOR_DETERMINED_BARRING = 8 -->
+  <string name="callFailed_operator_determined_barring">작업자가 일시 정지함</string>
   <!-- Text for CallFailCause.NORMAL_CLEARING = 16 -->
+  <string name="callFailed_normal">정상 호출 취소</string>
   <!-- Text for CallFailCause.CALL_FAIL_NO_USER_RESPONDING = 18 -->
+  <string name="callFailed_no_user_responding">사용자 응답 없음</string>
   <!-- Text for CallFailCause.CALL_FAIL_NO_ANSWER_FROM_USER = 19 -->
+  <string name="callFailed_no_answer_from_user">사용자 경고, 응답 없음</string>
   <!-- Text for CallFailCause.CALL_REJECTED = 21 -->
+  <string name="callFailed_call_rejected">통화 거절됨</string>
   <!-- Text for CallFailCause.NUMBER_CHANGED = 22 -->
+  <string name="callFailed_number_changed">번호 변경됨</string>
   <!-- Text for CallFailCause.PREEMPTION = 25 -->
+  <string name="callFailed_preemption">선취권</string>
   <!-- Text for CallFailCause.CALL_FAIL_DESTINATION_OUT_OF_ORDER = 27 -->
+  <string name="callFailed_destination_out_of_order">사용할 수 없습니다</string>
   <!-- Text for CallFailCause.INVALID_NUMBER = 28 -->
   <!-- Text for CallFailCause.FACILITY_REJECTED = 29 -->
   <!-- Text for CallFailCause.STATUS_ENQUIRY = 30 -->

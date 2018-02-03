@@ -33,10 +33,14 @@
 <resources>
   <!-- Supplementary for Clear Code -->
   <!-- Text for CallFailCause.NO_CIRCUIT_AVAIL = 34 -->
+  <string name="callFailed_no_circuit_avail">Ulac amnenniḍ illan</string>
   <!-- Text for CallFailCause.NETWORK_OUT_OF_ORDER = 38 -->
+  <string name="callFailed_network_out_of_order">Azeṭṭa ur i teddu ara</string>
   <!-- Text for CallFailCause.NO_ROUTE_TO_DESTINAON = 3 -->
+  <string name="callFailed_no_route_to_destination">Ulac abrid ɣer </string>
   <!-- Text for CallFailCause.CHANNEL_UNACCEPTABLE = 6 -->
   <!-- Text for CallFailCause.OPERATOR_DETERMINED_BARRING = 8 -->
+  <string name="callFailed_operator_determined_barring">Tagdelt tettwasbded s ɣuṛ umahal</string>
   <!-- Text for CallFailCause.NORMAL_CLEARING = 16 -->
   <!-- Text for CallFailCause.CALL_FAIL_NO_USER_RESPONDING = 18 -->
   <!-- Text for CallFailCause.CALL_FAIL_NO_ANSWER_FROM_USER = 19 -->
@@ -47,7 +51,9 @@
   <!-- Text for CallFailCause.INVALID_NUMBER = 28 -->
   <!-- Text for CallFailCause.FACILITY_REJECTED = 29 -->
   <!-- Text for CallFailCause.STATUS_ENQUIRY = 30 -->
+  <string name="callFailed_resp_to_status_enquiry">Tiririt i UḤTEC N UẒAYER</string>
   <!-- Text for CallFailCause.NORMAL_UNSPECIFIED = 31 -->
+  <string name="callFailed_normal_unspecified">Amagnu,ur i ttwassefru </string>
   <!-- Text for CallFailCause.TEMPORARY_FAILURE = 41 -->
   <!-- Text for CallFailCause.SWITCHING_CONGESTION = 42 -->
   <!-- Text for CallFailCause.ACCESS_INFORMATION_DISCARDED = 43 -->
