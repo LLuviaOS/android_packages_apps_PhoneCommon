@@ -133,5 +133,5 @@
   <!-- In-call screen: call failure reason (call modified to call with modified data) -->
   <string name="callFailed_dialVideoToDial">Video DIAL-запрос преобразован в DIAL.</string>
   <!-- In-call screen: call failure reason (call modified to call with modified data) -->
-  <string name="callFailed_dialVideoToDialVideo">Video DIAL-запос преобразован в Video DIAL с другим номером.</string>
+  <string name="callFailed_dialVideoToDialVideo">Video DIAL-запрос преобразован в Video DIAL с другим номером.</string>
 </resources>

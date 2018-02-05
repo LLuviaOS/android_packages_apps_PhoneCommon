@@ -42,21 +42,33 @@
   <!-- Text for CallFailCause.OPERATOR_DETERMINED_BARRING = 8 -->
   <string name="callFailed_operator_determined_barring">Tagdelt tettwasbded s ɣuṛ umahal</string>
   <!-- Text for CallFailCause.NORMAL_CLEARING = 16 -->
+  <string name="callFailed_normal">Asiwel aslugen yettwasfeḍ </string>
   <!-- Text for CallFailCause.CALL_FAIL_NO_USER_RESPONDING = 18 -->
+  <string name="callFailed_no_user_responding">Ulac tiririt n umseqdec </string>
   <!-- Text for CallFailCause.CALL_FAIL_NO_ANSWER_FROM_USER = 19 -->
+  <string name="callFailed_no_answer_from_user">Alɣu n umseqdec,ulac tiririt
+</string>
   <!-- Text for CallFailCause.CALL_REJECTED = 21 -->
+  <string name="callFailed_call_rejected">Asiwel yettwagi</string>
   <!-- Text for CallFailCause.NUMBER_CHANGED = 22 -->
+  <string name="callFailed_number_changed">Uṭṭun yettwabeddel</string>
   <!-- Text for CallFailCause.PREEMPTION = 25 -->
+  <string name="callFailed_preemption">Tasɣurbezt</string>
   <!-- Text for CallFailCause.CALL_FAIL_DESTINATION_OUT_OF_ORDER = 27 -->
+  <string name="callFailed_destination_out_of_order">Aserken ɣer taṛuẓi</string>
   <!-- Text for CallFailCause.INVALID_NUMBER = 28 -->
+  <string name="callFailed_invalid_number_format">Amasal n uṭṭun mačči d ameɣtu (uṭṭun ur yemmid)</string>
   <!-- Text for CallFailCause.FACILITY_REJECTED = 29 -->
+  <string name="callFailed_facility_rejected">Tamahilt tettwagi</string>
   <!-- Text for CallFailCause.STATUS_ENQUIRY = 30 -->
   <string name="callFailed_resp_to_status_enquiry">Tiririt i UḤTEC N UẒAYER</string>
   <!-- Text for CallFailCause.NORMAL_UNSPECIFIED = 31 -->
   <string name="callFailed_normal_unspecified">Amagnu,ur i ttwassefru </string>
   <!-- Text for CallFailCause.TEMPORARY_FAILURE = 41 -->
+  <string name="callFailed_tempopary_failure">Tuccḍa taskudant</string>
   <!-- Text for CallFailCause.SWITCHING_CONGESTION = 42 -->
   <!-- Text for CallFailCause.ACCESS_INFORMATION_DISCARDED = 43 -->
+  <string name="callFailed_access_information_discarded">Isal n unekcum yettwanef</string>
   <!-- Text for CallFailCause.CHANNEL_NOT_AVAIL = 44 -->
   <!-- Text for CallFailCause.RESOURCES_UNAVAILABLE_OR_UNSPECIFIED = 47 -->
   <!-- Text for CallFailCause.QOS_NOT_AVAIL = 49 -->
@@ -79,14 +91,22 @@
   <!-- Text for CallFailCause.MESSAGE_TYPE_NOT_COMPATIBLE_WITH_PROTOCOL_STATE = 98 -->
   <!-- Text for CallFailCause.INFORMATION_ELEMENT_NON_EXISTENT = 99 -->
   <!-- Text for CallFailCause.CONDITIONAL_IE_ERROR = 100 -->
+  <string name="callFailed_conditional_IE_error">Tuccḍa IE tawtilant</string>
   <!-- Text for CallFailCause.MESSAGE_NOT_COMPATIBLE_WITH_PROTOCOL_STATE = 101 -->
+  <string name="callFailed_message_not_compatible_with_protocol_state">Izen ur imsaḍa ad awaddad n uneggaf </string>
   <!-- Text for CallFailCause.RECOVERY_ON_TIMER_EXPIRED = 102 -->
   <!-- Text for CallFailCause.PROTOCOL_ERROR_UNSPECIFIED = 111 -->
+  <string name="callFailed_protocol_error_unspecified">Tuccḍa n uneggaf,ur tettwassefru</string>
   <!-- Text for CallFailCause.INTERWORKING_UNSPECIFIED = 127 -->
   <!-- Text for CallFailCause.NON_SELECTED_USER_CLEARING = 26 -->
+  <string name="callFailed_non_selected_user_clearing">Tukksa n useqdac ur yettwafernen</string>
   <!-- In-call screen: call failure reason (call modified to call with modified data) -->
+  <string name="callFailed_dialToDialVideo">A beddel usuter n DIAL i tavidiyutt DIAL.</string>
   <!-- In-call screen: call failure reason (call modified to call with modified data) -->
+  <string name="callFailed_dialVideoToSs">Asuter n tvidiyutt DIAL tettwabeddel s usuter SS.</string>
   <!-- In-call screen: call failure reason (call modified to call with modified data) -->
+  <string name="callFailed_dialVideoToUssd">Asuter n tvidiyutt DIAL tettwabeddel s usuter USSD.</string>
   <!-- In-call screen: call failure reason (call modified to call with modified data) -->
+  <string name="callFailed_dialVideoToDial">Asuter n usemḍen tvidiyutt yettwabeddel i DIAL.</string>
   <!-- In-call screen: call failure reason (call modified to call with modified data) -->
 </resources>
